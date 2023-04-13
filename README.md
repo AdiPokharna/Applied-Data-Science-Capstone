@@ -43,7 +43,6 @@ The project includes eight Jupyter Notebooks, one Powerpoint Presentation and on
 ## 1. Space-X Data Collection API
 
 
-- The API used is <a href="https://api.spacexdata.com/v4/rockets/" target="_blank">here</a>.
 - The API provides data about types of rocket launches done by SpaceX
 - The data is cleaned and exported to CSV for analysis
 
@@ -113,8 +112,6 @@ Installation requirements:
 - pandas
 - dash
 - plotly
-
-Execute all the cells. The final cell will output a statement saying "Dash is running on http://127.0.0.1:8050/". Click on the link and the dashboard will open up in your browser.  
 
 ![](./images/dash.PNG)
 
