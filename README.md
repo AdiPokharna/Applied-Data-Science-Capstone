@@ -54,7 +54,7 @@ The project includes eight Jupyter Notebooks, one Powerpoint Presentation and on
 - The data is cleaned and exported to CSV for analysis
 
 Snippet of the wikipedia page:  
-![](./images/falcon9-launches-wiki.png)
+![](./Images/falcon9-launches-wiki.png)
 
 ## 3. Exploratory Data Analysis
 
@@ -63,10 +63,10 @@ We perform some Exploratory Data Analysis (EDA) to find some patterns in the dat
 In the data set, there are several different cases where the booster did not land successfully. Sometimes a landing was attempted but failed due to an accident; for example, `True Ocean` means the mission outcome was successfully landed to a specific region of the ocean while `False Ocean` means the mission outcome was unsuccessfully landed to a specific region of the ocean. `True RTLS` means the mission outcome was successfully landed to a ground pad `False RTLS` means the mission outcome was unsuccessfully landed to a ground pad. `True ASDS` means the mission outcome was successfully landed on a drone ship `False ASDS` means the mission outcome was unsuccessfully landed on a drone ship.
 
 Successful landing example:  
-![](./images/landing_1.gif)
+![](./Images/landing_1.gif)
 
 Unsuccessful landing example:  
-![](./images/crash.gif)
+![](./Images/crash.gif)
 
 ## 4. Exploratory Data Analysis with SQL
 
@@ -86,7 +86,7 @@ Visualizing the success rate in each orbit:
 
 Class 1 = Success    
 Class 0 = Failure  
-![](./images/orbit%20vs%20flight%20no..PNG)
+![](./Images/orbit%20vs%20flight%20no..PNG)
 
 ## 6. Interactive Map Analytics with Folium
 
@@ -98,10 +98,10 @@ In this notebook we perform the following:
 This is all done using Folium, a Python mapping library that allows for the creation of interactive maps.
 
 Launch sites:  
-![](./images/launch_sites.PNG)
+![](./Images/launch_sites.PNG)
 
 Launch site proximities distances such as railway line, main road and coast:  
-![](./images/site_proximities.PNG)
+![](./Images/site_proximities.PNG)
 
 ## 7. Space-X Dashboard
 
@@ -113,7 +113,7 @@ Installation requirements:
 - dash
 - plotly
 
-![](./images/dash.PNG)
+![](./Images/dash.PNG)
 
 ## 8. Space-X Machine Learning Prediction
 
@@ -125,7 +125,7 @@ In this notebook we perform the following:
 - Find best Hyperparameter for SVM, Classification Trees and Logistic Regression
 - Find the method that performs best using test data
   
-![](./images/ml-graph.PNG)
+![](./Images/ml-graph.PNG)
 
 ## Conclusion:
 
