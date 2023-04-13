@@ -1,7 +1,7 @@
 # SpaceX Falcon 9 Landing Prediction using Machine Learning 
 
 **Falcon 9 Rocket Family**  
-![](./images/Falcon9_rocket_family.svg)
+![](./Images/Falcon9_rocket_family.svg)
 
 
 ## Project Description:
